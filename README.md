@@ -1,34 +1,58 @@
 # Привет, я Руслан 👋
 
-> **Frontend Developer** | `Vue.js` & `TypeScript`
+**Frontend Developer** · `React` · `TypeScript` · `MobX`
 
-> 📍 *Челябинск*
+📍 Челябинск
 
-Имею коммерческий опыт разработки интерфейсов. Специализируюсь на создании масштабируемых UI-решений, проектировании компонентной архитектуры и развитии дизайн-систем.
+Frontend-разработчик с коммерческим опытом. Разрабатываю интерфейсы для SaaS-продуктов, занимаюсь компонентной архитектурой, управлением состоянием и развитием переиспользуемых UI-решений.
 
----
+## 🚀 Чем занимаюсь
 
-## 🔭 Что я делаю сейчас
+* Разрабатываю на **React + TypeScript**
+* Использую **MobX**
+* Проектирую переиспользуемые компоненты и UI-решения
+* Работаю с компонентной архитектурой и масштабированием frontend-приложений
+* Участвую в развитии и поддержке существующей кодовой базы
+* Участвую в релизном процессе: сборка, версионирование и выпуск изменений
+* Взаимодействую с дизайнерами, разработчиками и менеджерами для улучшения продукта и UX
 
-| 🚀 | Задача |
-|---|---|
-| 💻 | Разрабатываю SPA на **Vue.js 3** *(Composition API)* + **TypeScript** |
-| 📦 | Поддерживаю и развиваю библиотеку веб-компонентов на **Lit v3** *(UI Kit / Design System)* |
-| 🧩 | Проектирую переиспользуемые компоненты с акцентом на масштабируемость |
-| 📋 | Участвую в релизном процессе: сборка, версионирование, интеграция компонентов |
-| 🤝 | Взаимодействую с дизайнерами и разработчиками для улучшения удобства использования компонентов |
+## 🔭 Сейчас
 
----
+Работаю над frontend-частью **SaaS-системы**.
+
+Основной стек:
+
+* **React**
+* **TypeScript**
+* **MobX**
+
+В работе уделяю внимание архитектуре приложения, переиспользованию компонентов, управлению состоянием и поддерживаемости кодовой базы.
+
+## 🧠 Коммерческий опыт
+
+До текущего проекта разрабатывал интерфейсы на **Vue.js 3 + TypeScript** и участвовал в развитии библиотеки веб-компонентов на **Lit**.
+
+Работал с:
+
+* Vue.js 3 / Composition API
+* TypeScript
+* Lit
+* UI Kit / Design System
+* переиспользуемыми компонентами
+* компонентной архитектурой
+* релизным процессом
 
 ## 🌱 Сейчас изучаю
 
-- 📚 **Продвинутые паттерны TypeScript** *(Generics, Utility Types, типизация API)*
-- ⚛️ **React** и его экосистему
-- 🏗️ **Архитектурные подходы** во frontend-разработке
+* **Frontend Architecture**
+* **System Design**
+* **React ecosystem**
+* **Zod**
+* **React Hook Form**
+* **Zustand**
+* архитектурные подходы к построению масштабируемых frontend-приложений
 
----
-
-## 🛠 Мой стек
+## 🛠️ Стек
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -36,27 +60,23 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <br />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white" alt="MobX" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white" alt="Lit" />
+  <br />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
+## 💡 Немного обо мне
+
+* 🗣️ **Коммуникабельный** — легко нахожу общий язык с людьми и стараюсь находить эффективные решения совместно с командой.
+* 📈 **Ориентирован на развитие** — активно перенимаю опыт у более опытных коллег и не боюсь задавать вопросы, чтобы глубже разобраться в задаче.
+* 🧩 **Интересуюсь архитектурой** — люблю разбираться в том, как устроены приложения, и искать решения, которые делают код понятнее и систему проще поддерживать.
+
+## ⚡ Вне работы
+
+🏂 Сноуборд · ⚽ Футбол · 🚗 Автомобили
+
 ---
-
-## ✨ Факт обо мне
-
-<table>
-  <tr>
-    <td>🗣️</td>
-    <td>Коммуникабельный — во многих случаях нахожу общий язык и стараюсь договариваться)</td>
-  </tr>
-  <tr>
-    <td>📈</td>
-    <td>Постоянно стремлюсь к росту, активно перенимаю опыт у старших коллег. Не боюсь задавать вопросы, чтобы понять решение.</td>
-  </tr>
-  <tr>
-    <td>🎯</td>
-    <td>Вне работы — сноуборд 🏂, футбол ⚽️, автомобили 🚗</td>
-  </tr>
-</table>
